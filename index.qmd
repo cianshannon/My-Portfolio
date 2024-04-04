@@ -1,7 +1,30 @@
 ---
-title: "MyPortfolio"
+title: "Cian Shannon"
+image: avatar.jpg
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/cian-shannon-13768322b/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/cianshannon"
+    - text: Email
+      url: "mailto:cianashannon@gmail.com"
+    - text: Blog
+      url: "blog.html"
+    - text: CV
+      url: "cv.pdf"
+comments: false
 ---
+::: {.column-page}
 
-This is a Quarto website.
+## Bio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a Final Year Bachelor of Business Studies student specialising in Data Analytics at [Dublin City University](https://www.dcu.ie/).
+Passionate about uncovering insights from data, I am dedicated to leveraging statistical methods and cutting-edge technologies to drive informed decision-making and solve complex business challenges.
+
+Currently, I balance my studies with part-time work at the [Guinness Storehouse](https://www.guinness-storehouse.com/en/home). Here, I work as part of the Visitor Experience team, ensuring visitors have a satisfactory visit at the [World's Leading Tourist Attraction](https://www.guinness-storehouse.com/en/whats-hoppening/worlds-leading-tourist-attraction).
+
+Through this academic website, I aim to showcase my proficiency in data analysis by presenting a portfolio of projects that demonstrate my skills in data collection, cleaning, visualisation, and interpretation. From predictive modelling to trend analysis, I am committed to utilising data-driven approaches to deliver actionable insights and create value for organisations.
+
